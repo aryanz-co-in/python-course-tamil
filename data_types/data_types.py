@@ -4,8 +4,8 @@
 
 str                             # Text Type
 int, float, complex             # Numeric Types
-list, tuple, range              # Sequence Types
-dict                            # Mapping Type
+list, tuple, range              # Sequence Types / Collection
+dict                            # Mapping Type {name:"Raj", age:20}
 set, frozenset                  # Set Types
-bool                            # Boolean Type
-bytes, bytearray, memoryview    # Binary Types
+bool                            # Boolean Type True | False
+bytes, bytearray, memoryview    # Binary Types A => 64
